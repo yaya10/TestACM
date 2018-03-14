@@ -1,0 +1,20 @@
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\Acme.Common.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\Acme.Common.pdb
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+C:\unitTestJenkins\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\unitTestJenkins\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\unitTestJenkins\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\unitTestJenkins\ACM\ACM.BLTest\bin\Debug\Acme.Common.dll
+C:\unitTestJenkins\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\unitTestJenkins\ACM\ACM.BLTest\bin\Debug\Acme.Common.pdb
+C:\unitTestJenkins\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+C:\unitTestJenkins\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\unitTestJenkins\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb

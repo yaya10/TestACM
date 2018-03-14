@@ -1,0 +1,11 @@
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
+C:\unitTestJenkins\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\unitTestJenkins\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\unitTestJenkins\ACM\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+C:\unitTestJenkins\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\unitTestJenkins\ACM\Acme.Common\obj\Debug\Acme.Common.pdb

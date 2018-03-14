@@ -1,0 +1,15 @@
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\kensi\OneDrive\Desktop\Real Estate Management\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\unitTestJenkins\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\unitTestJenkins\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\unitTestJenkins\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\unitTestJenkins\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\unitTestJenkins\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\unitTestJenkins\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\unitTestJenkins\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
